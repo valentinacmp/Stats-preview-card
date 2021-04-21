@@ -5,7 +5,6 @@ body{
 .main {
     padding: 10%;
     padding-top: 10% !important;
-    /*display: flex;*/
     position: relative;
     margin: 0 auto;
     resize: both;
