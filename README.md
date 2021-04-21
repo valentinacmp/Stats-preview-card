@@ -10,7 +10,7 @@ This is a great small challenge to help get you used to building to a design. Th
 
 ### Screenshot
 
-![](../images/screenshot.png)
+![](./images/screenshot.png)
 
 ## My process
 
